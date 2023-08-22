@@ -7,4 +7,4 @@ One important application is stroke neurorehabilitation strategies based on trai
 Here we aim to develop a Deep Learning strategy to estimate from EEG signals the fMRI activity in the motor cortex associated with a MI task. We used simultaneous EEG-fMRI data collected from healthy participants while performing MI tasks from a dataset collected at Instituto Superior Técnico de Lisboa. Since the Deep Learning approach to this task is novel, we have reviewed the literature in search of the most promising architecure.
 The basis of this work is EEGnet a compact model which features explainability. Appropriate Deep Learning techniques and modifications to the model are considered and tested and their performance is evaluated.
 
-![image](https://github.com/masal-98/NeuralNetworkEEG-to-fMRI/assets/100738621/861e8464-1d6d-45fa-86d5-4fb4751920d6)
+![image](https://github.com/masal-98/NeuralNetworkEEG-to-fMRI/blob/6b0883d72790eaeebc553d0677a4ca2d8182f86f/img/in%20depth%20structure.PNG)
